@@ -49,7 +49,7 @@ function App() {
                     <div className=' my-2 '>
                       <div className='w-fit items-center flex gap-4 bg-neutral-200 text-black py-3 px-3 rounded-md float-end'>
                         <img src={avatar} alt="" />
-                        <div className='fl'>
+                        <div className=''>
                           <h1 className='font-bold'>Muhammad Tatang Dhiya Ulhaq</h1>
                           <p key={index}>{item.prompt}</p>
                         </div>
